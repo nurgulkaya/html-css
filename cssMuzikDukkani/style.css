@@ -1,28 +1,22 @@
-
-h1{
-    color:blue;
-    text-align: center;
+body{
+    background-color: #E9ECEF;
 }
-
 h2{
-    color: red;
-    text-align: center;
+  text-align:center;
+  color: red;
 }
 
-h4{
-    color:blueviolet;
-}
-nav{
-    text-align: center;
-}
-nav a{
-    padding-right: 10px;
-}
-
-article{
+.jumbotron{
     list-style-position: inside;
 }
+.jumbotron.btn {
+    margin: 50%;
+}
+
 img{
     width: 300px;
     height: 300px;
+}
+.card{
+    margin: auto;
 }
